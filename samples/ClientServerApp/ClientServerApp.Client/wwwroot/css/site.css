@@ -43,6 +43,7 @@
     .main-nav .navbar-header {
         float: none;
         height: 200px;
+        text-align: center;
     }
     .main-nav .navbar-collapse {
         border-top: 1px solid #444;
@@ -91,6 +92,9 @@
     font: 12px Roboto;
 }
 
+
+
 .badge-success {
     background-color: green;
 }
+
